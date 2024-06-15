@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ProtectedApi.ValueController",
+    "Method": "About",
+    "RelativePath": "Value/about",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProtectedApi.ValueController",
+    "Method": "About",
+    "RelativePath": "Value/about",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ProtectedApi.NameModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProtectedApi.ValueController",
+    "Method": "AboutMe",
+    "RelativePath": "Value/about/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

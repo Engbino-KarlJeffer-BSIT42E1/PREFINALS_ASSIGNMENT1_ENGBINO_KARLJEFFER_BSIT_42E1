@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\engbi\\downloads\\compressed\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1-main\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\engbi\\downloads\\compressed\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1-main\\protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\engbi\\downloads\\compressed\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1-main\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\engbi\\downloads\\compressed\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1-main\\protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\engbi\\downloads\\compressed\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1-main\\protectedapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\engbi\\downloads\\compressed\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1-main\\protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProtectedApi.http",
+              "DocumentMoniker": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\ProtectedApi.http",
+              "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.http",
+              "ToolTip": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\ProtectedApi.http",
+              "RelativeToolTip": "ProtectedApi\\ProtectedApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-04T14:11:21.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProtectedApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T14:10:05.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\appsettings.json",
+              "RelativeToolTip": "ProtectedApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T13:30:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Startup.cs",
+              "RelativeToolTip": "ProtectedApi\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:29:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:28:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
+              "ToolTip": "C:\\Users\\engbi\\Downloads\\Compressed\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1-main\\ProtectedApi\\Program.cs",
+              "RelativeToolTip": "ProtectedApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:22:51.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
